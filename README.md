@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi 👋 I'm Hindumathi
 🔭 I’m currently working on: Improving my coding skills and building small projects<br>👯 I’m looking to collaborate on: Open-source and beginner-friendly projects<br>🤝 I’m looking for help with: Advanced concepts and real-world development<br>🌱 I’m currently learning: Programming fundamentals and new technologies<br>💬 Ask me about: Basics of coding and student life<br>⚡ Fun fact: I enjoy solving problems and learning something new every day
 
 
